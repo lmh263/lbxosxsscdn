@@ -1,0 +1,1 @@
+var domain = "http://ch.womai.la:39002"
